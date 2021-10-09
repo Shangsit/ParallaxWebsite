@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* welcome section */
+.img1{
+    background-image: url(../images/welcome.jpg);
+    min-height: 665px;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#heading{
+    padding: 10px;
+    padding-bottom: 367px
+}
+#heading h1{
+    font-family: 'Baloo Bhai', cursive;
+    color: rgb(33, 2, 59);
+    letter-spacing: 0.8px;
+    font-size: 3.5rem;
+}
+.center{
+    text-align: center;
+}
+#Scroll{
+    font-family: 'Baloo Bhai', cursive;
+    letter-spacing: 0.8px;
+    font-weight: 100;
+    display: block;
+    margin: auto;
+    color: white;
+    background-color: rgb(72, 1, 131);
+    border-radius: 7px;
+    padding: 12px;
+    width: 300px;
+}
+/* Section 1 */
+#section1{
+    font-family: 'Caveat', cursive;
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+    padding: 50px;
+    background-color: rgb(33, 2, 59);
+    color: white;
+   
+}
+.img2{
+    background-image: url(../images/1.png);
+    min-height: 665px;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+/* Section 2 */
+#section2{
+    font-family: 'Caveat', cursive;
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+    padding: 50px;
+    background-color: rgb(33, 2, 59);
+    color: white;
+    
+}
+.img3{
+    background-image: url(../images/2.jpg);
+    min-height: 665px;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+/* Section 3 */
+#section3{
+    font-family: 'Caveat', cursive;
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+    padding: 50px;
+    background-color: rgb(33, 2, 59);
+    color: white;
+    
+}
+.img4{
+    background-image: url(../images/3.jpg);
+    min-height: 665px;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+/* Section 4 */
+#section4{
+    font-family: 'Caveat', cursive;
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+    padding: 50px;
+    background-color: rgb(33, 2, 59);
+    color: white;
+    
+}
+.img5{
+    background-image: url(../images/4.png);
+    min-height: 665px;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+/* Section 5 */
+#section5{
+    font-family: 'Caveat', cursive;
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+    padding: 50px;
+    background-color: rgb(33, 2, 59);
+    color: white;
+    
+}
+.img6{
+    background-image: url(../images/5.jpg);
+    min-height: 665px;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+/* footer */
+footer{
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    color: white;
+    background-color: rgb(33, 2, 59);
+    padding: 5px;
+}
